@@ -1,0 +1,24 @@
+
+			// Initiate conversation with client
+//			KnockKnockBot kkb = new KnockKnockBot();
+//			outputLine = kkb.processInput(null);
+//			out.println(outputLine);
+//			while ((inputLine = in.readLine()) != null) {
+//				outputLine = kkb.processInput(inputLine);
+//				out.println(outputLine);
+//				if (outputLine.equals("Bye!"))
+//					break;
+//			}
+
+//			 RepeatAfterMeBot ramb = new RepeatAfterMeBot();
+//			 outputLine = ramb.processInput(null);
+//			 out.println(outputLine);
+//			
+//			 while ((inputLine = in.readLine()) != null) {
+//			 outputLine = ramb.processInput(inputLine);
+//			 out.println(outputLine);
+//			
+//			 if (outputLine.equals("Wrong! Bye!"))
+//			 break;
+//			 }
+			 
